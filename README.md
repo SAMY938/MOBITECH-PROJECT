@@ -63,6 +63,12 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Users Subscription Timing (Distribution of Users Subscription).
 * Enrollment Timing (Distribution of Enrollment Dates).
 
+![Image](https://github.com/user-attachments/assets/6874f01c-d442-40ec-9bb5-eee9df8b0452)
+
+#### 7. User Feedback
+* Usage Metrics (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
+* Behavioral Insights (Screens Viewed by Age).
+* Timing difference (First Open to Enrollment date diff.).
 
 
 
