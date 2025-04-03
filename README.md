@@ -49,6 +49,13 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Age Analysis (Enrollment Rate by Age & User premium Rate by Age & User Mini_Game Rate by Age).
 * Behavioral Insights (Screens Viewed by Age & Satisfaction Rate by Age & Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users).
 
+![Image](https://github.com/user-attachments/assets/3e206c2d-86b4-49de-89c7-5f9ca242c95e)
+
+#### 5. Feature Usage
+* Usage Metrics (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
+* Premium Features Impact (Impact of Premium Features on Satisfaction & Impact of Premium Features on Enrollment).
+
+
 
 
 
