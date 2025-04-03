@@ -43,6 +43,14 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Screen List Analysis (The Best 5 Viewed Screens & The Best 5 Interacted Screens & Average Interacted Screens by Premium Feature Users & Average Interacted Screens by Enrolled Users).
 * Users Satisfaction Rate (Users Satisfaction Rate).
 
+![Image](https://github.com/user-attachments/assets/6f01508e-4d0a-4b75-9654-6827f483b393)
+
+#### 4. User Demographics
+* Age Analysis (Enrollment Rate by Age & User premium Rate by Age & User Mini_Game Rate by Age).
+* Behavioral Insights (Screens Viewed by Age & Satisfaction Rate by Age & Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users).
+
+
+
 
 
 
