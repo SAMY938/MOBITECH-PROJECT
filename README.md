@@ -30,41 +30,41 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 
 #### 2. User Engagement
 * <b>Time based Analysis</b> (Peak hour of the day & Off-Peak hour of the day).
-* Session Details (Premium percentage & Mini-Game Usage rate & Satisfaction rate & Enrolled percentage).
-* User Subscription (User subscription by month).
+* <b>Session Details</b> (Premium percentage & Mini-Game Usage rate & Satisfaction rate & Enrolled percentage).
+* <b>User Subscription</b> (User subscription by month).
 
 ![Image](https://github.com/user-attachments/assets/1f32861e-77e8-4e70-bb10-0ca120835764)
 
 #### 3. Screen Interaction
-* Screen List Analysis (The Best 5 Viewed Screens & The Best 5 Interacted Screens & Average Interacted Screens by Premium Feature Users & Average Interacted Screens by Enrolled Users).
-* Users Satisfaction Rate (Users Satisfaction Rate).
+* <b>Screen List Analysis</b> (The Best 5 Viewed Screens & The Best 5 Interacted Screens & Average Interacted Screens by Premium Feature Users & Average Interacted Screens by Enrolled Users).
+* <b>Users Satisfaction Rate</b> (Users Satisfaction Rate).
 
 ![Image](https://github.com/user-attachments/assets/6f01508e-4d0a-4b75-9654-6827f483b393)
 
 #### 4. User Demographics
-* Age Analysis (Enrollment Rate by Age & User premium Rate by Age & User Mini_Game Rate by Age).
-* Behavioral Insights (Screens Viewed by Age & Satisfaction Rate by Age & Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users).
+* <b>Age Analysis</b> (Enrollment Rate by Age & User premium Rate by Age & User Mini_Game Rate by Age).
+* <b>Behavioral Insights</b> (Screens Viewed by Age & Satisfaction Rate by Age & Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users).
 
 ![Image](https://github.com/user-attachments/assets/3e206c2d-86b4-49de-89c7-5f9ca242c95e)
 
 #### 5. Feature Usage
-* Usage Metrics (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
-* Premium Features Impact (Impact of Premium Features on Satisfaction & Impact of Premium Features on Enrollment).
+* <b>Usage Metrics</b> (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
+* <b>Premium Features Impact</b> (Impact of Premium Features on Satisfaction & Impact of Premium Features on Enrollment).
 
 ![Image](https://github.com/user-attachments/assets/b4d03ea5-9812-4831-a4fe-e3061775b856)
 
 #### 6. User Onboarding
-* Enrollment Conversion Funnel (Enrolled to Subscription Percentage).
-* Timing difference (First Open to Enrollment date diff.).
-* Users Subscription Timing (Distribution of Users Subscription).
-* Enrollment Timing (Distribution of Enrollment Dates).
+* <b>Enrollment Conversion Funnel</b> (Enrolled to Subscription Percentage).
+* <b>Timing difference</b> (First Open to Enrollment date diff.).
+* <b>Users Subscription Timing</b> (Distribution of Users Subscription).
+* <b>Enrollment Timing</b> (Distribution of Enrollment Dates).
 
 ![Image](https://github.com/user-attachments/assets/6874f01c-d442-40ec-9bb5-eee9df8b0452)
 
 #### 7. User Feedback
-* Usage Metrics (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
-* Behavioral Insights (Screens Viewed by Age).
-* Timing difference (First Open to Enrollment date diff.).
+* <b>Usage Metrics</b> (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
+* <b>Behavioral Insights</b> (Screens Viewed by Age).
+* <b>Timing difference</b> (First Open to Enrollment date diff.).
 
 ## Data Processing and Calculations
 #### This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:
