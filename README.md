@@ -15,6 +15,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 - #### User Feedback
   Measure user metrics, behavioral insights, and timing differences.
 ## Visual Included
+
 ![Image](https://github.com/user-attachments/assets/13abb4ba-a6d1-4e52-bb1a-10b4773af5d1)
 
 ![Image](https://github.com/user-attachments/assets/d4322dd4-d863-4902-ac38-15d6c897324d)
@@ -28,6 +29,14 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Total Users, Screen Viewed, and Screen Interacted.
 * Users Interacting Decomposition Tree.
 * Users Demographics, and Users Satisfaction Rate.
+  
+![Image](https://github.com/user-attachments/assets/10ade1b3-031a-483a-9d52-c944f82c04ef)
+
+#### 2. User Engagement
+* Time based Analysis (Peak hour of the day & Off-Peak hour of the day).
+* Session Details (Premium percentage & Mini-Game Usage rate & Satisfaction rate & Enrolled percentage).
+* User Subscription (User subscription by month).
+
 
 
 
