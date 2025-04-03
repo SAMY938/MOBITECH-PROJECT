@@ -55,6 +55,19 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Usage Metrics (Percentage of Users Utilizing Premium Features & Percentage of Enrolled Users & Percentage of Users Utilizing Mini_Game & Users Satisfaction Rate).
 * Premium Features Impact (Impact of Premium Features on Satisfaction & Impact of Premium Features on Enrollment).
 
+![Image](https://github.com/user-attachments/assets/b4d03ea5-9812-4831-a4fe-e3061775b856)
+
+#### 6. User Onboarding
+* Enrollment Conversion Funnel (Enrolled to Subscription Percentage).
+* Timing difference (First Open to Enrollment date diff.).
+* Users Subscription Timing (Distribution of Users Subscription).
+* Enrollment Timing (Distribution of Enrollment Dates).
+
+
+
+
+
+
 
 
 
