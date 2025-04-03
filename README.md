@@ -22,10 +22,6 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 ![Image](https://github.com/user-attachments/assets/a8e7be7d-92b6-4a51-bb20-713bba143dbe)
 
 #### 1. Overview
-<ul>
-  <li>jana</li>
-  <li>hossam</li>
-</ul>
 * Total Users, Screen Viewed, and Screen Interacted.
 * Users Interacting Decomposition Tree.
 * Users Demographics, and Users Satisfaction Rate.
@@ -33,7 +29,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 ![Image](https://github.com/user-attachments/assets/10ade1b3-031a-483a-9d52-c944f82c04ef)
 
 #### 2. User Engagement
-* Time based Analysis (Peak hour of the day & Off-Peak hour of the day).
+* <b>Time based Analysis</b> (Peak hour of the day & Off-Peak hour of the day).
 * Session Details (Premium percentage & Mini-Game Usage rate & Satisfaction rate & Enrolled percentage).
 * User Subscription (User subscription by month).
 
