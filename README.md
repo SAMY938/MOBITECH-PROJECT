@@ -82,6 +82,12 @@ DAX is utilized for creating custom calculations and measures within the dashboa
 #### Data Modeling:
 The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
 
+![Image](https://github.com/user-attachments/assets/ccb5385b-d8a4-4bc5-be2d-56da4e002e07)
+
+These tools collectively enhance the analytical capabilities of the dashboard, providing valuable insights into real estate market trends and performance metrics.
+
+
+
 
 
 
