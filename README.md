@@ -25,6 +25,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 ![Image](https://github.com/user-attachments/assets/c70968e1-951a-4522-af23-702ac9477dbb)
 
 ![Image](https://github.com/user-attachments/assets/a8e7be7d-92b6-4a51-bb20-713bba143dbe)
+
 #### 1. Overview
 * Total Users, Screen Viewed, and Screen Interacted.
 * Users Interacting Decomposition Tree.
@@ -73,13 +74,13 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 ## Data Processing and Calculations
 This Power BI dashboard leverages several key tools and technologies to perform data transformations and calculations:
 
-#### Power Query: 
+#### Power Query 
 Used for data importation and transformation, Power Query enables the cleaning, shaping, and loading of data from various sources into the Power BI environment. This process ensures that the data is in the correct format for analysis.
 
-#### DAX (Data Analysis Expressions):
+#### DAX (Data Analysis Expressions)
 DAX is utilized for creating custom calculations and measures within the dashboard. It allows for advanced data modeling and enables the creation of dynamic calculations that respond to user interactions and filter selections.
 
-#### Data Modeling:
+#### Data Modeling
 The relationships between different data tables are established to create a comprehensive data model. This ensures accurate insights and visualizations throughout the dashboard.
 
 ![Image](https://github.com/user-attachments/assets/ccb5385b-d8a4-4bc5-be2d-56da4e002e07)
