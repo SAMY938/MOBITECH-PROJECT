@@ -36,7 +36,7 @@ A Power BI dashboard providing insights into App behavior analysis using data fr
 * Users Interacting Decomposition Tree.
 * Users Demographics, and Users Satisfaction Rate.
   
-![Image](https://github.com/user-attachments/assets/10ade1b3-031a-483a-9d52-c944f82c04ef)
+![Image](https://github.com/user-attachments/assets/56ce82aa-18a3-42ac-969b-d0e343e666d3)
 
 #### 2. User Engagement
 * <b>Time based Analysis</b> (Peak hour of the day & Off-Peak hour of the day).
